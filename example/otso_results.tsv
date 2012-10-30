@@ -1,4 +1,4 @@
-a_code	a_name	voters	votes	party	a_candidate	a_activ_p	a_party_p	a_candidate_p	a_candidate_vp
+Koodi	Alueen nimi	Äänioikeutettuja	Ääniä	Puolueen ääniä	Ehdok. ääniä	Aktiivisuus	Puolueen %	Ehdok. %	Ehdok. % puolueen äänistä
 038D	Ala-Malmi A	3697	1701	272	5	46.01%	15.99%	0.29%	1.84%
 038E	Ala-Malmi B	4316	2181	312	3	50.53%	14.31%	0.14%	0.96%
 012A	Alppila A	2883	1518	519	25	52.65%	34.19%	1.65%	4.82%
