@@ -64,4 +64,5 @@ for line in f:
     print "</tr>"
 
 print "</table>"
+print "<p>Generated with <a href='https://github.com/sarkkine/ballin-bear'>github.com/sarkkine/ballin-bear</a>.</p>"
 print "</body></html>"
