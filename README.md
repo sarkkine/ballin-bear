@@ -1,9 +1,13 @@
 ballin-bear
 ===========
 
-Election result scraping tool. Will pull data from YLE election result pages.
+Election result scraping tool. Will pull data from YLE election result pages and output
+voting activity, candidate support percentages per area and in comparison to party votes in that area.
 
 For example output, see: http://dl.dropbox.com/u/5740841/otso_results.html
+
+You need to copy and paste candidate's data from YLE to a source file, 
+from e.g. http://vaalit.yle.fi/tulospalvelu/2012/kuntavaalit/ehdokkaat/ehdokas_1_91_954.html.
 
 Example usage:
 
