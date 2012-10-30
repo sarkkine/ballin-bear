@@ -8,8 +8,8 @@ For example output, see: http://dl.dropbox.com/u/5740841/otso_results.html
 Example usage:
 
 ```
-./kannatus.py example/otso_alueet.txt > otso_results.tsv
-./tsv_to_html.py otso_results.txv > otso_results.html
+python kannatus.py example/otso_alueet.txt > otso_results.tsv
+python tsv_to_html.py otso_results.txv > otso_results.html
 ```
 
 Host the resulting html file and example/sorttable.js somewhere, and off you go.
