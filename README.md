@@ -3,6 +3,8 @@ ballin-bear
 
 Election result scraping tool. Will pull data from YLE election result pages.
 
+For example output, see: http://dl.dropbox.com/u/5740841/otso_results.html
+
 Example usage:
 
 ```
