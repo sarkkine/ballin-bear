@@ -8,12 +8,12 @@ f = file(sys.argv[1])
 print '''
 <html>
 <head>
-        <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+        <meta http-equiv='Content-Type' content='Type=text/html; charset=utf-8'>
         <script src="sorttable.js"></script> 
         <script>
         function load() {
-                sorttable.innerSortFunction.apply(document.getElementById("candidate_p"), []);
-                sorttable.innerSortFunction.apply(document.getElementById("candidate_p"), []);
+                sorttable.innerSortFunction.apply(document.getElementById("a_candidate_p"), []);
+                sorttable.innerSortFunction.apply(document.getElementById("a_candidate_p"), []);
         }
         </script>
 </head>
