@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# coding=utf8
 # Download YLE election data and create candidate/area result table.
 # Jussi Sarkkinen 2012
 
@@ -23,7 +23,7 @@ def main(argv):
         for line in f:
             areas.append( line.rstrip().split('\t') )
 
-    print "a_code\ta_name\tvoters\tvotes\tparty\ta_candidate\ta_activ_p\ta_party_p\ta_candidate_p\ta_candidate_vp"
+    print "Koodi\tAlueen nimi\tÄänioikeutettuja\tÄäniä\tPuolueen ääniä\tEhdok. ääniä\tAktiivisuus\tPuolueen %\tEhdok. %\tEhdok. % puolueen äänistä"
 
     for area in areas:
         URL = BASE_URL % area[0]
