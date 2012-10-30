@@ -1,0 +1,158 @@
+038D	Ala-Malmi A	5
+038E	Ala-Malmi B	3
+012A	Alppila A	25
+012B	Alppila B	19
+012C	Alppila C	27
+012D	Alppila D	35
+005C	Eira	15
+029A	Etelä-Haaga A	6
+029B	Etelä-Haaga B	17
+029C	Etelä-Haaga C	12
+013A	Etu-Töölö A	17
+013B	Etu-Töölö B	24
+013C	Etu-Töölö C	15
+029D	Haaga	20
+033E	Hakuninmaa	14
+041B	Heikinlaakso	6
+021A	Hermanni	46
+043F	Herttoniemenranta A	7
+043G	Herttoniemenranta B	12
+043A	Herttoniemi A	21
+043B	Herttoniemi B	10
+004B	Hietalahti	28
+013D	Hietaniemi	19
+034C	Itä-Pakila	1
+017B	Itä-Pasila	19
+045J	Itäkeskus	3
+041C	Jakomäki A	2
+041D	Jakomäki B	1
+049D	Jollas	7
+003A	Kaartinkaupunki	5
+011C	Kallio A	23
+011D	Kallio B	36
+011E	Kallio C	43
+011F	Kallio D	31
+004A	Kamppi	21
+033A	Kannelmäki A	9
+033B	Kannelmäki B	4
+033C	Kannelmäki C	3
+033D	Kannelmäki D	7
+008A	Katajanokka	15
+047K	Kivikko	3
+032A	Konala A	6
+032B	Konala B	11
+047A	Kontula A	1
+047C	Kontula B	0
+047E	Kontula C	2
+026A	Koskela	15
+001A	Kruununhaka A	29
+002A	Kruununhaka B	18
+042A	Kulosaari	15
+024A	Kumpula	27
+047B	Kurkimäki	3
+025A	Käpylä A	13
+025B	Käpylä B	20
+049A	Laajasalo A	5
+049B	Laajasalo B	7
+004C	Lapinlahti	33
+029G	Lassila A	8
+029H	Lassila B	5
+031A	Lauttasaari A	16
+031B	Lauttasaari B	5
+031C	Lauttasaari C	18
+031D	Lauttasaari D	31
+031E	Lauttasaari E	11
+031F	Lauttasaari F	6
+011B	Linjat	22
+034A	Länsi-Pakila	7
+017A	Länsi-Pasila A	6
+017C	Länsi-Pasila B	6
+033F	Malminkartano A	2
+033G	Malminkartano B	7
+045H	Marjaniemi	3
+028A	Maunula A	9
+028B	Maunula B	12
+015A	Meilahti A	14
+015B	Meilahti B	17
+047D	Mellunkylä	2
+047H	Mellunmäki A	1
+047J	Mellunmäki B	3
+010B	Merihaka	11
+030A	Munkkiniemi A	5
+030B	Munkkiniemi B	7
+030C	Munkkiniemi C	5
+030D	Munkkivuori A	16
+030E	Munkkivuori B	20
+045E	Myllypuro A	3
+045F	Myllypuro B	1
+045G	Myllypuro C	3
+028D	Oulunkylä A	9
+028E	Oulunkylä B	13
+028F	Oulunkylä C	8
+034B	Pakila	3
+035A	Paloheinä	3
+038B	Pihlajamäki A	12
+038C	Pihlajamäki B	11
+038A	Pihlajisto	8
+016B	Pikku Huopalahti	15
+046A	Pitäjänmäki A	8
+046B	Pitäjänmäki B	3
+046C	Pitäjänmäki C	8
+029E	Pohjois-Haaga A	8
+029F	Pohjois-Haaga B	8
+041A	Puistola	4
+037A	Pukinmäki A	9
+037B	Pukinmäki B	11
+005A	Punavuori A	22
+005B	Punavuori B	21
+045C	Puotila	2
+045D	Puotinharju	2
+043D	Roihuvuori A	5
+043E	Roihuvuori B	8
+006A	Ruoholahti	17
+016A	Ruskeasuo	18
+051A	Santahamina	3
+040A	Siltamäki	4
+011A	Siltasaari	32
+052A	Suomenlinna	1
+040B	Suutarila	3
+010A	Sörnäinen	41
+014A	Taka-Töölö A	17
+014B	Taka-Töölö B	21
+014C	Taka-Töölö C	15
+014D	Taka-Töölö D	23
+044A	Tammisalo	6
+039C	Tapanila	13
+039B	Tapaninkylä	2
+039A	Tapaninvainio	4
+040D	Tapulikaupunki A	8
+040E	Tapulikaupunki B	0
+035B	Torpparinmäki	11
+023A	Toukola A	24
+023B	Toukola B	23
+040C	Töyrynummi	3
+007A	Ullanlinna A	12
+007B	Ullanlinna B	19
+007C	Ullanlinna C	9
+022A	Vallila A	55
+022B	Vallila B	36
+045A	Vartioharju A	5
+045B	Vartioharju B	3
+028G	Veräjämäki	8
+047F	Vesala A	2
+047G	Vesala B	4
+038H	Viikki A	19
+038J	Viikki B	20
+054A	Vuosaari A	4
+054B	Vuosaari B	3
+054C	Vuosaari C	3
+054D	Vuosaari D	4
+054E	Vuosaari E	7
+054F	Vuosaari F	7
+054G	Vuosaari G	0
+054H	Vuosaari H	2
+049C	Yliskylä	3
+038F	Ylä-Malmi A	0
+038G	Ylä-Malmi B	1
+090A	Ä-alue 090A	8
+055A	Östersundom	0
